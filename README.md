@@ -6,12 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **web developing .**
+- 📚 I’m currently learning **web developing .**
 - 🏠 I'm from **Sri Lanka** .
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/mkpmmilan?tab=repositories)**
-
-- 📫 How to reach me **prageethmilan99@gmail.com**
-- 📱 Contact me **+94 76 540 19 08**
+- 📧 How to reach me **prageethmilan99@gmail.com**
+- 📲 Contact me **+94 76 540 19 08**
 
 ## 🚀 Languages and Tools:
 
