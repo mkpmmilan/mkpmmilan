@@ -56,7 +56,10 @@
 
 <a href = "https://www.linkedin.com/in/prageeth-milan-0aba13225/" target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://wa.me/94765401908" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>
-
+<a href = "https://www.facebook.com/profile.php?id=100077040305952" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>"/></a>
+<a href = "https://www.instagram.com/prageethmilan/?r=nametag" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>"/>"/></a>
+<a href = "https://twitter.com/MPrageeth1999?t=c_cVlF-m5RFCrYj0jMIqNQ&s=09" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+    
 </p>
 
 ## ❤ Views and Followers
