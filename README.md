@@ -8,7 +8,7 @@
 
 - 📚 I’m currently learning **web developing .**
 - 🏠 I'm from **Sri Lanka** .
-- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/mkpmmilan?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/prageethmilan?tab=repositories)**
 - 📧 How to reach me **prageethmilan1999@gmail.com**
 - 📲 Contact me **+94 71 541 19 08**
 
@@ -30,15 +30,15 @@
 
 <p align="center">
     <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prageeth Milan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mkpmmilan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prageeth Milan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prageethmilan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href=""><img alt="Prageeth Milan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mkpmmilan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href=""><img alt="Prageeth Milan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkpmmilan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href=""><img alt="Prageeth Milan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href=""><img alt="Prageeth Milan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prageethmilan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mkpmmilan/github-readme-activity-graph"><img alt="Prageeth Milan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mkpmmilan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/prageethmilan/github-readme-activity-graph"><img alt="Prageeth Milan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prageethmilan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -55,7 +55,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/prageeth-milan-0aba13225/" target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://wa.me/94765401908" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>
+<a href = "https://wa.me/94715411908" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/></a>
 <a href = "https://www.facebook.com/profile.php?id=100077040305952" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/prageethmilan/?r=nametag" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 <a href = "https://twitter.com/MPrageeth1999?t=c_cVlF-m5RFCrYj0jMIqNQ&s=09" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
@@ -64,6 +64,6 @@
 
 ## ❤ Views and Followers
 <a href="">
-    <img src="https://komarev.com/ghpvc/?username=mkpmmilan">
+    <img src="https://komarev.com/ghpvc/?username=prageethmilan">
 </a>
-<a href="https://github.com/mkpmmilan?tab=followers"><img src="https://img.shields.io/github/followers/mkpmmilan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/prageethmilan?tab=followers"><img src="https://img.shields.io/github/followers/prageethmilan?label=Followers&style=social" alt="GitHub Badge"></a>
