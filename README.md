@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-        ![](https://github-readme-streak-stats.herokuapp.com?user=prageethmilan&theme=soft-green)
+        <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=prageethmilan&theme=soft-green" alt="" /></a>
 </p>
 
 ## 📊 My Github Stats
