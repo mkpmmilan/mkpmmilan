@@ -29,13 +29,14 @@
 <br/>
 
 <p align="center">
-        [![](https://github-readme-streak-stats.herokuapp.com?user=prageethmilan&theme=soft-green)](https://git.io/streak-stats)
+        ![](https://github-readme-streak-stats.herokuapp.com?user=prageethmilan&theme=soft-green)
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
     <a href=""><img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&theme=gotham" alt="Prageeth Milan | Stats" /></a>
+<br>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prageethmilan&langs_count=5&theme=gotham" alt="Prageeth Milan | My GitHub Language Stats" /></a>
   <br/>
 
