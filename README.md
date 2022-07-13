@@ -34,7 +34,11 @@
 
 ## 📊 My Github Stats
 
-  ![Prageeth Milan's github stats](https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true)
+  <div align="center">
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&theme=gotham" alt="Prageeth Milan|Stats"/>
+
+</div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prageethmilan&layout=compact)
 
