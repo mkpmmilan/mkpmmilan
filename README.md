@@ -34,8 +34,7 @@
   
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prageethmilan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Prageeth Milan|Stats"/>
     
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prageethmilan&theme=github_dark" alt="Prageeth Milan|Stats"/></p>
-
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=prageethmilan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D"/> </p>
 
 <br/>
 <br/>
