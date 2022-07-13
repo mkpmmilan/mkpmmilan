@@ -30,7 +30,7 @@
 
 ## 📊 My Github Stats
 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham)
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prageethmilan&layout=compact)
 
