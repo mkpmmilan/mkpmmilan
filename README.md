@@ -30,11 +30,7 @@
 
 ## 📊 My Github Stats
 
-  <div align="center">
-
-<p align="center"> <img src="img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Prageeth Milan|Stats"/>
-
-</div>
+  ![Stats](https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prageethmilan&layout=compact)
 
