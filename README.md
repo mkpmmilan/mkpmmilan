@@ -36,8 +36,9 @@
 
 <br/>
 <br/>
+    
+    <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prageethmilan&theme=github_dark" alt="Prageeth Milan|Stats"/>
 
-<a href="https://github.com/prageethmilan/github-readme-activity-graph"><img alt="Prageeth Milan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prageethmilan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
