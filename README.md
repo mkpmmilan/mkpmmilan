@@ -30,6 +30,8 @@
 
 ## 📊 My Github Stats
 
+<p align="center"> <img src="https://metrics.lecoq.io/prageethmilan" alt="Prageeth Milan |Stats"/>
+
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Prageeth Milan |Stats"/>
   
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prageethmilan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Prageeth Milan|Stats"/>
