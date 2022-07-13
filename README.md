@@ -29,7 +29,7 @@
 <br/>
 
 <p align="center">
-        <a href=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=prageethmilan&theme=soft-green" alt="" /></a>
+        <a href=""><img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="" /></a>
 </p>
 
 ## 📊 My Github Stats
