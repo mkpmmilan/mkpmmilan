@@ -30,10 +30,9 @@
 
 ## 📊 My Github Stats
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Mindula-Dilthushan|Stats"/>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Prageeth Milan |Stats"/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prageethmilan&layout=compact)
-
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=prageethmilan&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Prageeth Milan|Stats"/>
 
 <br/>
 <br/>
