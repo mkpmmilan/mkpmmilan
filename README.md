@@ -34,8 +34,8 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href=""><img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&theme=gotham" alt="Prageeth Milan | Stats" /></a>
+  ![Prageeth Milan's github stats](https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true)
+  
 <br>
   <a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prageethmilan&langs_count=5&theme=gotham" alt="Prageeth Milan | My GitHub Language Stats" /></a>
   <br/>
