@@ -28,15 +28,11 @@
 
 <br/>
 
-<p align="center">
-        <a href=""><img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="" /></a>
-</p>
-
 ## 📊 My Github Stats
 
   <div align="center">
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&theme=gotham" alt="Prageeth Milan|Stats"/>
+<p align="center"> <img src="img src="https://github-readme-stats.vercel.app/api?username=prageethmilan&show_icons=true&include_all_commits=true&count_private=true&theme=gotham" alt="Prageeth Milan|Stats"/>
 
 </div>
   
