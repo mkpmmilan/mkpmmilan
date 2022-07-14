@@ -58,3 +58,7 @@
     <img src="https://komarev.com/ghpvc/?username=prageethmilan">
 </a>
 <a href="https://github.com/prageethmilan?tab=followers"><img src="https://img.shields.io/github/followers/prageethmilan?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
