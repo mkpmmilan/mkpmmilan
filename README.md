@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 📚 I’m currently learning **web developing .**
+- 📚 I’m currently learning **mobile app developing .**
 - 🏠 I'm from **Sri Lanka** .
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/prageethmilan?tab=repositories)**
 - 📧 How to reach me **prageethmilan1999@gmail.com**
